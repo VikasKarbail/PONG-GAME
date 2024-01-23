@@ -1,5 +1,5 @@
-# PONG-game-using-python
-Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
+<h1>Python Pong Game🏀 </h1>
+Pong is a two-dimensional sports game🏀 that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
 For doing this project you need to know more about OOPS concept like Inheritance ,Class and Object
 
 first you need to import turtle module
