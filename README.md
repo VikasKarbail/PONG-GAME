@@ -33,7 +33,8 @@ for doing this project i devided into 6 parts
 
 8>>Keep score
 
-![image](https://github.com/VikasKarbail/PONG-GAME/assets/117006055/c0a400ed-2f92-41de-b50d-7e7c611c9f56)
+
+![po](https://github.com/VikasKarbail/PONG-GAME/assets/117006055/4835b160-5959-436b-8491-e8cc70cc9fff)
 
 
                                                                                                      VIKAS K.R.
